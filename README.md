@@ -1,16 +1,17 @@
-# new_task_again
+ Hospital UI App
 
-A new Flutter project.
+A beautifully designed Flutter UI for a hospital booking and consultation app.
+This project focuses on clean design, intuitive user experience, and can be used as a base for any healthcare-related mobile application.
 
-## Getting Started
+ Features
+🩺 Doctor List Screen
+📅 Booking Interface (Appointment UI)
+🧘‍♂️ Clean layout, icons, and smooth scrolling
+⚡ Built with Flutter 3 & Dart
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Tech Stack
+Flutter (UI toolkit by Google)
+Dart (programming language)
+Android Studio for development
