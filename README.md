@@ -10,15 +10,7 @@ This project focuses on clean design, intuitive user experience, and can be used
 ⚡ Built with Flutter 3 & Dart
 
 ### 📸 Screenshots
-
-#### App Home Screen:
-![Home Screen](asset/Home.png)
-
-#### Booking Screen:
-![Booking Screen](assests/AppointmentForm.png)
-
-#### Confirmation Screen:
-![Confirmation Screen](assets/Doctorinfo.png)
+You can visit assests folder for images the apk
 
  Tech Stack
 Flutter (UI toolkit by Google)
